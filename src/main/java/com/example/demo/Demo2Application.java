@@ -15,6 +15,6 @@ public class Demo2Application {
 
     @GetMapping("/test")
     public String test() {
-        return "Hello zzx ";
+        return "Hello 钟展学  ";
     }
 }
