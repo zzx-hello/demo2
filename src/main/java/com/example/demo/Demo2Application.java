@@ -15,6 +15,6 @@ public class Demo2Application {
 
     @GetMapping("/test")
     public String test() {
-        return "Hello zzx -v2.0.0";
+        return "Hello zzx ";
     }
 }
